@@ -1,0 +1,113 @@
+.sidebar{
+    width: 200px;
+    /* background-color: aqua; */
+    flex: 0.2;
+    position: sticky;
+    top: 80px;
+    margin-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+    height: fit-content;
+    padding-left: 0px;
+    padding-top: 0px;
+    
+
+    
+    
+    
+}
+.sidebar_top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2.3px solid #0275b2;
+    border-bottom: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /* background-color: white; */
+    background-color: #99dfff;
+    box-shadow: 3px 3px 8px #0275b2;
+
+    /* width: 250px; */
+    
+
+}
+.sidebar_top>img{
+    width: 100%;
+    margin-bottom: -20px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.sidebar_top>h2{
+    color: #4d194d;
+    font-size: 18px;
+}
+.sidebar_top>h4{
+    color: #cd9d45;
+    font-size: 12px;
+}
+.sidebar_stats{
+    padding: 10px;
+    margin-bottom: 10px;
+    /* background-color: white; */
+    background-color: #99dfff;
+    border: 2.3px solid #0275b2;
+    border-radius: 0 0 10px 10px;
+    padding-bottom: 20px;
+    box-shadow: 3px 3px 8px #0275b2;
+
+}
+.sidebar_stat{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.sidebar_stat>p{
+    color: #0275b2;
+    font-size: 13px;
+    font-weight: 600;
+}
+.sidebar_statNumber{
+    color: blue !important;
+    font-weight: bold;
+
+}
+.sidebar_bottom{
+    text-align: left;
+    padding: 10px;
+    border: 2.3px solid #0275b2;
+    /* background-color: white; */
+    background-color: #99dfff;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 3px 3px 8px #0275b2;
+
+}
+.sidebar_bottom>p{
+    font-size: 13px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.sidebar_recentItem{
+    display: flex;
+    font-size: 13px;
+    color: #0275b2;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.sidebar_recentItem:hover{
+    background-image: linear-gradient(to right bottom, #7209b7, #eb008c, #ff3751, #ffa000, #fcf300);
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    
+
+}
+.sidebar_hash{
+    margin: 0 10px;
+}

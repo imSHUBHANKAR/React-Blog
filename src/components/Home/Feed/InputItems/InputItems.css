@@ -1,0 +1,25 @@
+.inputItems{
+    display: flex;
+    color: #60891f;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    margin-bottom: 5px;
+    padding: 8px;
+    width: 100px;
+}
+.inputItems:hover{
+    cursor: pointer;
+    background-color: #e9f5db;
+    border-radius: 10px;
+    color: #d00000;
+}
+.inputItems>p{
+    margin-left: 10px;
+}
+/* .photo_title{
+    color: #60891f;
+    display: flex;
+    font-weight: 500;
+    position: relative;
+} */

@@ -1,0 +1,42 @@
+.about_us{
+    margin-top: 40px;
+    /* margin: 40px 70px; */
+    /* height: 500px; */
+    background-image: linear-gradient(to right bottom, #003566, #784187, #d4487b, #ff774d, #ffc300);
+}
+.about_us_title{
+    font-weight: 500;
+    font-size: 28px;
+    margin: 60px 0;
+    color: orangered;
+}
+.about_us_para1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    margin: 40px 0;
+    color: whitesmoke;
+}
+
+
+
+
+/* .about_us{
+    background-color: whitesmoke;
+    
+    
+
+}
+.about_us_title{
+    color: red;
+    margin-left: 35vh;
+}
+.about_us_para1 ,.about_us_para2,.about_us_para3{
+font-size: 19px;
+margin-left: 35vh;
+font-style:italic;
+}
+.first_btn{
+    margin-left: 35vh;
+}  */
+

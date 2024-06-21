@@ -1,0 +1,28 @@
+.Home-one{
+    width: 100%;
+    /* background-image: linear-gradient(to right bottom, #0d1321, #2f4852, #628280, #a9beac, #fefae0); */
+
+}
+
+
+.container_home{
+    display: flex;
+    width: 100%;
+    
+}
+
+.marquee{
+    margin-left: 5px;
+    width: maxime;
+    height: 30px;
+    position: sticky;
+    /* margin-left: 0px; */
+    /* margin-right: 10px; */
+    text-align: center;
+    color:#9b44f2;
+    font-size: 17px;
+    font-style: italic;
+    border: 3px solid #718355;
+    border-radius: 5px;
+    background-color: #cfe1b9;
+}
