@@ -4,7 +4,7 @@ import EditIcon from '@mui/icons-material/Edit';
 import InputItems from './InputItems/InputItems';
 import PhotoIcon from '@mui/icons-material/Photo';
 import Posts from "../Posts/Posts";
-import ThumbUpOutlinedIcon from '@mui/icons-material/ThumbUpOutlined';
+// import ThumbUpOutlinedIcon from '@mui/icons-material/ThumbUpOutlined';
 
 
 function Feed(){

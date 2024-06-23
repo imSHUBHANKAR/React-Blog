@@ -1,9 +1,9 @@
 import { Avatar } from "@mui/material";
 import React, { useState } from "react";
-import InputItems from "../Feed/InputItems/InputItems";
+//import InputItems from "../Feed/InputItems/InputItems";
 import "./Posts.css";
 import ThumbUpIcon from '@mui/icons-material/ThumbUp';
-import ThumbUpOffAltIcon from '@mui/icons-material/ThumbUpOffAlt';
+//import ThumbUpOffAltIcon from '@mui/icons-material/ThumbUpOffAlt';
 import ThumbUpOutlinedIcon from '@mui/icons-material/ThumbUpOutlined';
 
 
