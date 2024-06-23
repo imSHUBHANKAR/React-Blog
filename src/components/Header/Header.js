@@ -4,7 +4,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import Button from '@mui/material/Button';
 import { useAuth0 } from "@auth0/auth0-react";
 import { Link } from "react-router-dom";
-import AboutUs from "../AboutUs/aboutUs";
+// import AboutUs from "../AboutUs/aboutUs";
 
 function Header() {
     const { user, logout } = useAuth0()
